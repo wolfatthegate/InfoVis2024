@@ -138,6 +138,8 @@ grandparent.append("text")
                                 .style("opacity", 1);
                              d3.select("#tooltip").html("<h3>"+d.name+"</h3><table>"+
                                       "<tr><td>"+d.value+"</td><td> ("+d.rate+"%)</td></tr>"+
+                                      "<tr><td>"+d.value+"</td><td> ("+d.rate+"%)</td></tr>"+
+                                      "<tr><td>"+d.value+"</td><td> ("+d.rate+"%)</td></tr>"+
                                       "</table>")
                                 .style("left", (d3.event.pageX-document.getElementById('heatmap').offsetLeft + 20) + "px")
                                 .style("top", (d3.event.pageY-document.getElementById('heatmap').offsetTop - 60) + "px");
