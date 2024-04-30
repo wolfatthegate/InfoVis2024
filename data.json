@@ -1,0 +1,2595 @@
+{
+    "name": "MARKET", 
+    "children": [
+        {
+            "name": "MEDIA", 
+            "children": [
+                {
+                    "rate": 2.83, 
+                    "name": "DBCORP", 
+                    "value": 1.16
+                }, 
+                {
+                    "rate": 1.11, 
+                    "name": "DEN", 
+                    "value": 1.29
+                }, 
+                {
+                    "rate": -0.13, 
+                    "name": "ENIL", 
+                    "value": 0.24
+                }, 
+                {
+                    "rate": -0.77, 
+                    "name": "EROSMEDIA", 
+                    "value": 8.36
+                }, 
+                {
+                    "rate": -0.65, 
+                    "name": "HTMEDIA", 
+                    "value": 6.41
+                }, 
+                {
+                    "rate": 5.84, 
+                    "name": "HATHWAY", 
+                    "value": 3.49
+                }, 
+                {
+                    "rate": 1.34, 
+                    "name": "INOXLEISUR", 
+                    "value": 0.83
+                }, 
+                {
+                    "rate": -1.33, 
+                    "name": "JAGRAN", 
+                    "value": 2.54
+                }, 
+                {
+                    "rate": -0.38, 
+                    "name": "NDTV", 
+                    "value": 0.31
+                }, 
+                {
+                    "rate": -0.45, 
+                    "name": "NETWORK18", 
+                    "value": 1.24
+                }, 
+                {
+                    "rate": 0.04, 
+                    "name": "PVR", 
+                    "value": 9.37
+                }, 
+                {
+                    "rate": 1.28, 
+                    "name": "SITICABLE", 
+                    "value": 0.95
+                }, 
+                {
+                    "rate": 1.72, 
+                    "name": "SUNTV", 
+                    "value": 41.16
+                }, 
+                {
+                    "rate": -0.9, 
+                    "name": "TVTODAY", 
+                    "value": 3.42
+                }, 
+                {
+                    "rate": 0.75, 
+                    "name": "TV18BRDCST", 
+                    "value": 13.99
+                }, 
+                {
+                    "rate": 2.72, 
+                    "name": "ZEEL", 
+                    "value": 149.73
+                }
+            ]
+        }, 
+        {
+            "name": "CONSUMER DURABLES", 
+            "children": [
+                {
+                    "rate": -0.99, 
+                    "name": "BAJAJELEC", 
+                    "value": 2.14
+                }, 
+                {
+                    "rate": 4.04, 
+                    "name": "BLUESTARCO", 
+                    "value": 4.62
+                }, 
+                {
+                    "rate": 2.33, 
+                    "name": "LAOPALA", 
+                    "value": 0.77
+                }, 
+                {
+                    "rate": -0.24, 
+                    "name": "SYMPHONY", 
+                    "value": 2.82
+                }, 
+                {
+                    "rate": 1.65, 
+                    "name": "TTKPRESTIG", 
+                    "value": 1.36
+                }, 
+                {
+                    "rate": 0.25, 
+                    "name": "TITAN", 
+                    "value": 30.17
+                }, 
+                {
+                    "rate": 1.39, 
+                    "name": "VIPIND", 
+                    "value": 5.57
+                }, 
+                {
+                    "rate": 0.19, 
+                    "name": "VIDEOIND", 
+                    "value": 0.67
+                }, 
+                {
+                    "rate": 3.67, 
+                    "name": "WHIRLPOOL", 
+                    "value": 8.13
+                }
+            ]
+        }, 
+        {
+            "name": "MANUFACTURING", 
+            "children": [
+                {
+                    "rate": -2.24, 
+                    "name": "APARINDS", 
+                    "value": 0.63
+                }, 
+                {
+                    "rate": -0.71, 
+                    "name": "ASTRAL", 
+                    "value": 0.75
+                }, 
+                {
+                    "rate": -2.18, 
+                    "name": "BALLARPUR", 
+                    "value": 1.37
+                }, 
+                {
+                    "rate": 2.51, 
+                    "name": "BALMLAWRIE", 
+                    "value": 0.92
+                }, 
+                {
+                    "rate": -1.9, 
+                    "name": "BHARATFORG", 
+                    "value": 131.1
+                }, 
+                {
+                    "rate": -0.11, 
+                    "name": "CARBORUNIV", 
+                    "value": 0.27
+                }, 
+                {
+                    "rate": 3.22, 
+                    "name": "ESABINDIA", 
+                    "value": 0.47
+                }, 
+                {
+                    "rate": -1.57, 
+                    "name": "ELECTCAST", 
+                    "value": 0.38
+                }, 
+                {
+                    "rate": -4.72, 
+                    "name": "ESSDEE", 
+                    "value": 3.71
+                }, 
+                {
+                    "rate": -0.28, 
+                    "name": "ESSELPACK", 
+                    "value": 0.81
+                }, 
+                {
+                    "rate": 0.35, 
+                    "name": "FAGBEARING", 
+                    "value": 19.99
+                }, 
+                {
+                    "rate": -2.18, 
+                    "name": "FINCABLES", 
+                    "value": 3.38
+                }, 
+                {
+                    "rate": -0.85, 
+                    "name": "FINPIPE", 
+                    "value": 1.06
+                }, 
+                {
+                    "rate": 2.42, 
+                    "name": "FLEXITUFF", 
+                    "value": 0.41
+                }, 
+                {
+                    "rate": -0.77, 
+                    "name": "GITANJALI", 
+                    "value": 0.81
+                }, 
+                {
+                    "rate": -2.13, 
+                    "name": "GRAPHITE", 
+                    "value": 0.49
+                }, 
+                {
+                    "rate": -0.39, 
+                    "name": "HEG", 
+                    "value": 0.07
+                }, 
+                {
+                    "rate": -3.04, 
+                    "name": "HFCL", 
+                    "value": 9.47
+                }, 
+                {
+                    "rate": 2.77, 
+                    "name": "JISLJALEQS", 
+                    "value": 90.52
+                }, 
+                {
+                    "rate": 0.0, 
+                    "name": "METALFORGE", 
+                    "value": 0.2
+                }, 
+                {
+                    "rate": -0.89, 
+                    "name": "NITINFIRE", 
+                    "value": 0.35
+                }, 
+                {
+                    "rate": 2.78, 
+                    "name": "RAJESHEXPO", 
+                    "value": 19.69
+                }, 
+                {
+                    "rate": -1.64, 
+                    "name": "SKFINDIA", 
+                    "value": 0.62
+                }, 
+                {
+                    "rate": -5.13, 
+                    "name": "SHRENUJ", 
+                    "value": 0.14
+                }, 
+                {
+                    "rate": 0.72, 
+                    "name": "SINTEX", 
+                    "value": 20.6
+                }, 
+                {
+                    "rate": -2.24, 
+                    "name": "STRTECH", 
+                    "value": 2.75
+                }, 
+                {
+                    "rate": 1.27, 
+                    "name": "SUPREMEIND", 
+                    "value": 1.18
+                }, 
+                {
+                    "rate": -1.41, 
+                    "name": "TNPL", 
+                    "value": 2.38
+                }, 
+                {
+                    "rate": 2.6, 
+                    "name": "TBZ", 
+                    "value": 2.75
+                }, 
+                {
+                    "rate": 1.13, 
+                    "name": "UFLEX", 
+                    "value": 3.88
+                }
+            ]
+        }, 
+        {
+            "name": "FINANCE", 
+            "children": [
+                {
+                    "rate": 2.49, 
+                    "name": "ALBK", 
+                    "value": 12.39
+                }, 
+                {
+                    "rate": 0.86, 
+                    "name": "ANDHRABANK", 
+                    "value": 20.83
+                }, 
+                {
+                    "rate": -0.02, 
+                    "name": "AXISBANK", 
+                    "value": 562.46
+                }, 
+                {
+                    "rate": 1.99, 
+                    "name": "BAJFINANCE", 
+                    "value": 51.12
+                }, 
+                {
+                    "rate": 0.85, 
+                    "name": "BAJAJFINSV", 
+                    "value": 16.61
+                }, 
+                {
+                    "rate": 2.15, 
+                    "name": "BAJAJHLDNG", 
+                    "value": 5.68
+                }, 
+                {
+                    "rate": -0.03, 
+                    "name": "BANKBARODA", 
+                    "value": 210.56
+                }, 
+                {
+                    "rate": 0.57, 
+                    "name": "BANKINDIA", 
+                    "value": 80.05
+                }, 
+                {
+                    "rate": 0.91, 
+                    "name": "CARERATING", 
+                    "value": 7.42
+                }, 
+                {
+                    "rate": -0.07, 
+                    "name": "CRISIL", 
+                    "value": 4.72
+                }, 
+                {
+                    "rate": 0.77, 
+                    "name": "CANFINHOME", 
+                    "value": 7.51
+                }, 
+                {
+                    "rate": 1.51, 
+                    "name": "CANBK", 
+                    "value": 73.49
+                }, 
+                {
+                    "rate": -1.0, 
+                    "name": "CAPF", 
+                    "value": 8.95
+                }, 
+                {
+                    "rate": -0.87, 
+                    "name": "CENTRALBK", 
+                    "value": 1.75
+                }, 
+                {
+                    "rate": 3.08, 
+                    "name": "CHOLAFIN", 
+                    "value": 5.63
+                }, 
+                {
+                    "rate": 1.17, 
+                    "name": "CUB", 
+                    "value": 3.15
+                }, 
+                {
+                    "rate": 0.26, 
+                    "name": "CORPBANK", 
+                    "value": 0.56
+                }, 
+                {
+                    "rate": 4.45, 
+                    "name": "DCBBANK", 
+                    "value": 10.02
+                }, 
+                {
+                    "rate": 0.0, 
+                    "name": "DENABANK", 
+                    "value": 1.98
+                }, 
+                {
+                    "rate": 2.81, 
+                    "name": "DHFL", 
+                    "value": 37.46
+                }, 
+                {
+                    "rate": 0.51, 
+                    "name": "DHANBANK", 
+                    "value": 0.32
+                }, 
+                {
+                    "rate": -0.97, 
+                    "name": "EDELWEISS", 
+                    "value": 0.89
+                }, 
+                {
+                    "rate": -0.54, 
+                    "name": "FEDERALBNK", 
+                    "value": 159.34
+                }, 
+                {
+                    "rate": -0.97, 
+                    "name": "GEOJITBNPP", 
+                    "value": 0.21
+                }, 
+                {
+                    "rate": -1.14, 
+                    "name": "GRUH", 
+                    "value": 3.91
+                }, 
+                {
+                    "rate": 0.58, 
+                    "name": "HDFCBANK", 
+                    "value": 538.64
+                }, 
+                {
+                    "rate": -0.87, 
+                    "name": "HDFC", 
+                    "value": 1056.82
+                }, 
+                {
+                    "rate": -0.36, 
+                    "name": "ICICIBANK", 
+                    "value": 660.85
+                }, 
+                {
+                    "rate": 0.87, 
+                    "name": "ICRA", 
+                    "value": 1.46
+                }, 
+                {
+                    "rate": 0.0, 
+                    "name": "IDBI", 
+                    "value": 59.01
+                }, 
+                {
+                    "rate": 2.25, 
+                    "name": "IFCI", 
+                    "value": 62.97
+                }, 
+                {
+                    "rate": 1.56, 
+                    "name": "IIFL", 
+                    "value": 1.51
+                }, 
+                {
+                    "rate": 1.6, 
+                    "name": "IBULHSGFIN", 
+                    "value": 110.98
+                }, 
+                {
+                    "rate": 2.46, 
+                    "name": "IBVENTURES", 
+                    "value": 1.67
+                }, 
+                {
+                    "rate": 0.1, 
+                    "name": "INDIANB", 
+                    "value": 1.67
+                }, 
+                {
+                    "rate": 3.19, 
+                    "name": "IOB", 
+                    "value": 5.96
+                }, 
+                {
+                    "rate": 2.18, 
+                    "name": "INDUSINDBK", 
+                    "value": 286.41
+                }, 
+                {
+                    "rate": -0.79, 
+                    "name": "JMFINANCIL", 
+                    "value": 0.51
+                }, 
+                {
+                    "rate": -0.27, 
+                    "name": "JSWHL", 
+                    "value": 0.06
+                }, 
+                {
+                    "rate": -0.41, 
+                    "name": "J&KBANK", 
+                    "value": 2.74
+                }, 
+                {
+                    "rate": 0.64, 
+                    "name": "KTKBANK", 
+                    "value": 17.11
+                }, 
+                {
+                    "rate": 1.9, 
+                    "name": "KARURVYSYA", 
+                    "value": 4.1
+                }, 
+                {
+                    "rate": -0.47, 
+                    "name": "KOTAKBANK", 
+                    "value": 272.17
+                }, 
+                {
+                    "rate": 0.79, 
+                    "name": "L&TFH", 
+                    "value": 26.59
+                }, 
+                {
+                    "rate": 1.02, 
+                    "name": "LICHSGFIN", 
+                    "value": 146.44
+                }, 
+                {
+                    "rate": -1.47, 
+                    "name": "LAKSHVILAS", 
+                    "value": 6.76
+                }, 
+                {
+                    "rate": -0.2, 
+                    "name": "MAGMA", 
+                    "value": 2.19
+                }, 
+                {
+                    "rate": 1.26, 
+                    "name": "M&MFIN", 
+                    "value": 88.11
+                }, 
+                {
+                    "rate": 0.27, 
+                    "name": "MOTILALOFS", 
+                    "value": 1.21
+                }, 
+                {
+                    "rate": 2.01, 
+                    "name": "MUTHOOTFIN", 
+                    "value": 1.15
+                }, 
+                {
+                    "rate": 2.88, 
+                    "name": "ORIENTBANK", 
+                    "value": 30.93
+                }, 
+                {
+                    "rate": -0.88, 
+                    "name": "PFS", 
+                    "value": 1.46
+                }, 
+                {
+                    "rate": -0.32, 
+                    "name": "PFC", 
+                    "value": 42.22
+                }, 
+                {
+                    "rate": -1.0, 
+                    "name": "PNB", 
+                    "value": 106.15
+                }, 
+                {
+                    "rate": -0.41, 
+                    "name": "RELCAPITAL", 
+                    "value": 144.6
+                }, 
+                {
+                    "rate": -2.43, 
+                    "name": "RELIGARE", 
+                    "value": 0.1
+                }, 
+                {
+                    "rate": 1.7, 
+                    "name": "REPCOHOME", 
+                    "value": 60.14
+                }, 
+                {
+                    "rate": -0.33, 
+                    "name": "RECLTD", 
+                    "value": 37.98
+                }, 
+                {
+                    "rate": 9.35, 
+                    "name": "SEINV", 
+                    "value": 0.09
+                }, 
+                {
+                    "rate": 3.58, 
+                    "name": "SKSMICRO", 
+                    "value": 125.89
+                }, 
+                {
+                    "rate": 3.03, 
+                    "name": "SREINFRA", 
+                    "value": 4.67
+                }, 
+                {
+                    "rate": -0.28, 
+                    "name": "SHRIRAMCIT", 
+                    "value": 0.31
+                }, 
+                {
+                    "rate": 0.52, 
+                    "name": "SRTRANSFIN", 
+                    "value": 76.05
+                }, 
+                {
+                    "rate": 1.14, 
+                    "name": "SOUTHBANK", 
+                    "value": 6.14
+                }, 
+                {
+                    "rate": -1.2, 
+                    "name": "SBBJ", 
+                    "value": 0.35
+                }, 
+                {
+                    "rate": -1.68, 
+                    "name": "SBIN", 
+                    "value": 589.5
+                }, 
+                {
+                    "rate": -0.89, 
+                    "name": "SBT", 
+                    "value": 0.68
+                }, 
+                {
+                    "rate": 0.07, 
+                    "name": "SUNDARMFIN", 
+                    "value": 16.71
+                }, 
+                {
+                    "rate": 2.32, 
+                    "name": "SYNDIBANK", 
+                    "value": 29.8
+                }, 
+                {
+                    "rate": -0.69, 
+                    "name": "TATAINVEST", 
+                    "value": 0.38
+                }, 
+                {
+                    "rate": 2.22, 
+                    "name": "UCOBANK", 
+                    "value": 6.43
+                }, 
+                {
+                    "rate": 1.39, 
+                    "name": "UNIONBANK", 
+                    "value": 91.73
+                }, 
+                {
+                    "rate": 0.32, 
+                    "name": "VIJAYABANK", 
+                    "value": 1.16
+                }, 
+                {
+                    "rate": -0.14, 
+                    "name": "YESBANK", 
+                    "value": 540.99
+                }
+            ]
+        }, 
+        {
+            "name": "OIL AND GAS", 
+            "children": [
+                {
+                    "rate": 0.54, 
+                    "name": "ABAN", 
+                    "value": 16.45
+                }, 
+                {
+                    "rate": 0.35, 
+                    "name": "BPCL", 
+                    "value": 254.77
+                }, 
+                {
+                    "rate": -1.8, 
+                    "name": "CAIRN", 
+                    "value": 141.1
+                }, 
+                {
+                    "rate": -1.97, 
+                    "name": "CASTROLIND", 
+                    "value": 19.18
+                }, 
+                {
+                    "rate": 0.03, 
+                    "name": "CHENNPETRO", 
+                    "value": 11.0
+                }, 
+                {
+                    "rate": -0.85, 
+                    "name": "GAIL", 
+                    "value": 78.66
+                }, 
+                {
+                    "rate": 1.35, 
+                    "name": "GSPL", 
+                    "value": 14.89
+                }, 
+                {
+                    "rate": 1.56, 
+                    "name": "GULFOILLUB", 
+                    "value": 28.79
+                }, 
+                {
+                    "rate": 0.18, 
+                    "name": "HINDPETRO", 
+                    "value": 128.62
+                }, 
+                {
+                    "rate": -1.61, 
+                    "name": "IOC", 
+                    "value": 103.86
+                }, 
+                {
+                    "rate": 3.37, 
+                    "name": "IGL", 
+                    "value": 56.09
+                }, 
+                {
+                    "rate": -0.59, 
+                    "name": "MRPL", 
+                    "value": 2.91
+                }, 
+                {
+                    "rate": -1.76, 
+                    "name": "ONGC", 
+                    "value": 260.99
+                }, 
+                {
+                    "rate": -0.67, 
+                    "name": "OIL", 
+                    "value": 9.48
+                }, 
+                {
+                    "rate": 1.47, 
+                    "name": "PETRONET", 
+                    "value": 55.01
+                }, 
+                {
+                    "rate": -0.18, 
+                    "name": "RELIANCE", 
+                    "value": 736.88
+                }
+            ]
+        }, 
+        {
+            "name": "METALS AND MINING", 
+            "children": [
+                {
+                    "rate": -0.69, 
+                    "name": "BHUSANSTL", 
+                    "value": 0.54
+                }, 
+                {
+                    "rate": -1.66, 
+                    "name": "COALINDIA", 
+                    "value": 257.73
+                }, 
+                {
+                    "rate": -1.06, 
+                    "name": "GMDCLTD", 
+                    "value": 0.65
+                }, 
+                {
+                    "rate": -0.06, 
+                    "name": "HINDALCO", 
+                    "value": 148.85
+                }, 
+                {
+                    "rate": -0.89, 
+                    "name": "HINDCOPPER", 
+                    "value": 0.95
+                }, 
+                {
+                    "rate": 4.77, 
+                    "name": "HINDZINC", 
+                    "value": 388.02
+                }, 
+                {
+                    "rate": 0.9, 
+                    "name": "JSWSTEEL", 
+                    "value": 157.29
+                }, 
+                {
+                    "rate": -1.08, 
+                    "name": "JAICORPLTD", 
+                    "value": 5.48
+                }, 
+                {
+                    "rate": 0.13, 
+                    "name": "JINDALSAW", 
+                    "value": 1.36
+                }, 
+                {
+                    "rate": 4.32, 
+                    "name": "JINDALSTEL", 
+                    "value": 78.26
+                }, 
+                {
+                    "rate": 2.09, 
+                    "name": "MOIL", 
+                    "value": 1.07
+                }, 
+                {
+                    "rate": -0.52, 
+                    "name": "MAHSEAMLES", 
+                    "value": 2.23
+                }, 
+                {
+                    "rate": -2.02, 
+                    "name": "NMDC", 
+                    "value": 40.64
+                }, 
+                {
+                    "rate": 3.09, 
+                    "name": "NATIONALUM", 
+                    "value": 5.5
+                }, 
+                {
+                    "rate": 0.78, 
+                    "name": "NEYVELILIG", 
+                    "value": 0.72
+                }, 
+                {
+                    "rate": -2.02, 
+                    "name": "ORISSAMINE", 
+                    "value": 0.08
+                }, 
+                {
+                    "rate": 5.02, 
+                    "name": "PENIND", 
+                    "value": 1.55
+                }, 
+                {
+                    "rate": 1.52, 
+                    "name": "PRAKASH", 
+                    "value": 0.49
+                }, 
+                {
+                    "rate": 1.2, 
+                    "name": "RATNAMANI", 
+                    "value": 0.11
+                }, 
+                {
+                    "rate": 0.91, 
+                    "name": "SRIPIPES", 
+                    "value": 2.74
+                }, 
+                {
+                    "rate": -0.81, 
+                    "name": "SAIL", 
+                    "value": 17.06
+                }, 
+                {
+                    "rate": -0.34, 
+                    "name": "TATASPONGE", 
+                    "value": 9.06
+                }, 
+                {
+                    "rate": -1.43, 
+                    "name": "TATASTEEL", 
+                    "value": 427.19
+                }, 
+                {
+                    "rate": 2.64, 
+                    "name": "USHAMART", 
+                    "value": 0.48
+                }, 
+                {
+                    "rate": -0.17, 
+                    "name": "UTTAMSTL", 
+                    "value": 0.13
+                }, 
+                {
+                    "rate": -1.98, 
+                    "name": "VEDL", 
+                    "value": 385.45
+                }, 
+                {
+                    "rate": 0.51, 
+                    "name": "WELCORP", 
+                    "value": 3.12
+                }
+            ]
+        }, 
+        {
+            "name": "AUTOMOTIVE", 
+            "children": [
+                {
+                    "rate": -1.27, 
+                    "name": "AMARAJABAT", 
+                    "value": 29.15
+                }, 
+                {
+                    "rate": -0.16, 
+                    "name": "AMTEKAUTO", 
+                    "value": 2.3
+                }, 
+                {
+                    "rate": 1.15, 
+                    "name": "APOLLOTYRE", 
+                    "value": 71.07
+                }, 
+                {
+                    "rate": 0.51, 
+                    "name": "ASHOKLEY", 
+                    "value": 169.73
+                }, 
+                {
+                    "rate": 4.7, 
+                    "name": "AUTOAXLES", 
+                    "value": 2.1
+                }, 
+                {
+                    "rate": -0.68, 
+                    "name": "BAJAJ-AUTO", 
+                    "value": 118.24
+                }, 
+                {
+                    "rate": 1.4, 
+                    "name": "BALKRISIND", 
+                    "value": 8.85
+                }, 
+                {
+                    "rate": 0.25, 
+                    "name": "BOSCHLTD", 
+                    "value": 76.08
+                }, 
+                {
+                    "rate": 1.92, 
+                    "name": "CASTEXTECH", 
+                    "value": 0.89
+                }, 
+                {
+                    "rate": 2.28, 
+                    "name": "CEATLTD", 
+                    "value": 54.38
+                }, 
+                {
+                    "rate": 2.34, 
+                    "name": "EICHERMOT", 
+                    "value": 310.67
+                }, 
+                {
+                    "rate": -0.5, 
+                    "name": "ESCORTS", 
+                    "value": 3.75
+                }, 
+                {
+                    "rate": 0.83, 
+                    "name": "EXIDEIND", 
+                    "value": 23.08
+                }, 
+                {
+                    "rate": 1.98, 
+                    "name": "FMGOETZE", 
+                    "value": 0.15
+                }, 
+                {
+                    "rate": -2.11, 
+                    "name": "GABRIEL", 
+                    "value": 1.12
+                }, 
+                {
+                    "rate": 0.75, 
+                    "name": "HEROMOTOCO", 
+                    "value": 346.84
+                }, 
+                {
+                    "rate": -0.06, 
+                    "name": "JKTYRE", 
+                    "value": 11.07
+                }, 
+                {
+                    "rate": 0.01, 
+                    "name": "LGBBROSLTD", 
+                    "value": 0.38
+                }, 
+                {
+                    "rate": 1.01, 
+                    "name": "MRF", 
+                    "value": 54.0
+                }, 
+                {
+                    "rate": 0.81, 
+                    "name": "MAHSCOOTER", 
+                    "value": 0.08
+                }, 
+                {
+                    "rate": -0.74, 
+                    "name": "M&M", 
+                    "value": 311.3
+                }, 
+                {
+                    "rate": -0.3, 
+                    "name": "MARUTI", 
+                    "value": 453.52
+                }, 
+                {
+                    "rate": 3.92, 
+                    "name": "MOTHERSUMI", 
+                    "value": 140.92
+                }, 
+                {
+                    "rate": -1.46, 
+                    "name": "MUNJALSHOW", 
+                    "value": 0.41
+                }, 
+                {
+                    "rate": -2.2, 
+                    "name": "RICOAUTO", 
+                    "value": 0.53
+                }, 
+                {
+                    "rate": 2.69, 
+                    "name": "SHANTIGEAR", 
+                    "value": 0.27
+                }, 
+                {
+                    "rate": -0.54, 
+                    "name": "SONASTEER", 
+                    "value": 0.21
+                }, 
+                {
+                    "rate": -3.4, 
+                    "name": "SUNDRMFAST", 
+                    "value": 0.92
+                }, 
+                {
+                    "rate": -0.61, 
+                    "name": "SWARAJENG", 
+                    "value": 0.1
+                }, 
+                {
+                    "rate": 0.51, 
+                    "name": "TVSMOTOR", 
+                    "value": 59.88
+                }, 
+                {
+                    "rate": -0.52, 
+                    "name": "TATAMOTORS", 
+                    "value": 416.6
+                }, 
+                {
+                    "rate": -0.54, 
+                    "name": "TUBEINVEST", 
+                    "value": 0.77
+                }, 
+                {
+                    "rate": 0.95, 
+                    "name": "WABCOINDIA", 
+                    "value": 3.97
+                }, 
+                {
+                    "rate": -2.72, 
+                    "name": "WHEELS", 
+                    "value": 0.29
+                }
+            ]
+        }, 
+        {
+            "name": "ENGINEERING EQUIPMENT", 
+            "children": [
+                {
+                    "rate": 3.38, 
+                    "name": "ABB", 
+                    "value": 14.79
+                }, 
+                {
+                    "rate": 3.41, 
+                    "name": "ABGSHIP", 
+                    "value": 11.07
+                }, 
+                {
+                    "rate": -0.98, 
+                    "name": "AIAENG", 
+                    "value": 5.44
+                }, 
+                {
+                    "rate": 1.32, 
+                    "name": "AIL", 
+                    "value": 1.53
+                }, 
+                {
+                    "rate": 1.07, 
+                    "name": "BEML", 
+                    "value": 38.12
+                }, 
+                {
+                    "rate": 1.18, 
+                    "name": "BEL", 
+                    "value": 99.32
+                }, 
+                {
+                    "rate": 1.76, 
+                    "name": "INFRATEL", 
+                    "value": 252.09
+                }, 
+                {
+                    "rate": -0.7, 
+                    "name": "CUMMINSIND", 
+                    "value": 68.36
+                }, 
+                {
+                    "rate": 4.86, 
+                    "name": "DYNAMATECH", 
+                    "value": 1.51
+                }, 
+                {
+                    "rate": 0.27, 
+                    "name": "ELGIEQUIP", 
+                    "value": 0.12
+                }, 
+                {
+                    "rate": -2.35, 
+                    "name": "GTLINFRA", 
+                    "value": 0.09
+                }, 
+                {
+                    "rate": 1.18, 
+                    "name": "GREAVESCOT", 
+                    "value": 1.44
+                }, 
+                {
+                    "rate": 2.74, 
+                    "name": "HAVELLS", 
+                    "value": 101.07
+                }, 
+                {
+                    "rate": -0.56, 
+                    "name": "HONAUT", 
+                    "value": 0.42
+                }, 
+                {
+                    "rate": -0.06, 
+                    "name": "INGERRAND", 
+                    "value": 0.67
+                }, 
+                {
+                    "rate": -1.9, 
+                    "name": "KSBPUMPS", 
+                    "value": 0.36
+                }, 
+                {
+                    "rate": -0.67, 
+                    "name": "LAXMIMACH", 
+                    "value": 0.29
+                }, 
+                {
+                    "rate": -0.52, 
+                    "name": "OPTOCIRCUI", 
+                    "value": 0.59
+                }, 
+                {
+                    "rate": 0.31, 
+                    "name": "SIEMENS", 
+                    "value": 54.66
+                }, 
+                {
+                    "rate": 2.14, 
+                    "name": "SUZLON", 
+                    "value": 59.34
+                }, 
+                {
+                    "rate": -1.76, 
+                    "name": "TDPOWERSYS", 
+                    "value": 0.11
+                }, 
+                {
+                    "rate": 2.77, 
+                    "name": "TECHNO", 
+                    "value": 2.11
+                }, 
+                {
+                    "rate": 1.07, 
+                    "name": "THERMAX", 
+                    "value": 1.36
+                }, 
+                {
+                    "rate": 1.67, 
+                    "name": "VOLTAS", 
+                    "value": 52.24
+                }
+            ]
+        }, 
+        {
+            "name": "UTILITIES", 
+            "children": [
+                {
+                    "rate": 5.52, 
+                    "name": "ADANIPOWER", 
+                    "value": 93.73
+                }, 
+                {
+                    "rate": -0.85, 
+                    "name": "BHARTIARTL", 
+                    "value": 251.43
+                }, 
+                {
+                    "rate": 0.51, 
+                    "name": "CESC", 
+                    "value": 29.52
+                }, 
+                {
+                    "rate": 0.0, 
+                    "name": "GVKPIL", 
+                    "value": 1.69
+                }, 
+                {
+                    "rate": -0.81, 
+                    "name": "GIPCL", 
+                    "value": 0.18
+                }, 
+                {
+                    "rate": 0.91, 
+                    "name": "IDEA", 
+                    "value": 113.43
+                }, 
+                {
+                    "rate": -1.13, 
+                    "name": "INOXWIND", 
+                    "value": 10.79
+                }, 
+                {
+                    "rate": 0.87, 
+                    "name": "JSWENERGY", 
+                    "value": 27.2
+                }, 
+                {
+                    "rate": 1.08, 
+                    "name": "JPPOWER", 
+                    "value": 0.63
+                }, 
+                {
+                    "rate": -2.55, 
+                    "name": "KSK", 
+                    "value": 1.72
+                }, 
+                {
+                    "rate": 5.31, 
+                    "name": "NHPC", 
+                    "value": 52.53
+                }, 
+                {
+                    "rate": -0.81, 
+                    "name": "NTPC", 
+                    "value": 136.01
+                }, 
+                {
+                    "rate": -0.59, 
+                    "name": "NBVENTURES", 
+                    "value": 0.17
+                }, 
+                {
+                    "rate": 2.29, 
+                    "name": "PTC", 
+                    "value": 13.33
+                }, 
+                {
+                    "rate": -0.47, 
+                    "name": "POWERGRID", 
+                    "value": 123.33
+                }, 
+                {
+                    "rate": -0.6, 
+                    "name": "RCOM", 
+                    "value": 59.06
+                }, 
+                {
+                    "rate": -0.14, 
+                    "name": "RELINFRA", 
+                    "value": 147.07
+                }, 
+                {
+                    "rate": 3.61, 
+                    "name": "RPOWER", 
+                    "value": 38.65
+                }, 
+                {
+                    "rate": -1.13, 
+                    "name": "TATACOMM", 
+                    "value": 37.1
+                }, 
+                {
+                    "rate": 3.14, 
+                    "name": "TATAPOWER", 
+                    "value": 103.89
+                }, 
+                {
+                    "rate": 3.67, 
+                    "name": "TORNTPOWER", 
+                    "value": 24.83
+                }
+            ]
+        }, 
+        {
+            "name": "CONSUMER NONDURABLES", 
+            "children": [
+                {
+                    "rate": 1.5, 
+                    "name": "ATFL", 
+                    "value": 0.1
+                }, 
+                {
+                    "rate": 2.97, 
+                    "name": "BAJAJCORP", 
+                    "value": 1.41
+                }, 
+                {
+                    "rate": -2.71, 
+                    "name": "BAJAJHIND", 
+                    "value": 9.7
+                }, 
+                {
+                    "rate": -0.19, 
+                    "name": "BALRAMCHIN", 
+                    "value": 38.07
+                }, 
+                {
+                    "rate": 0.84, 
+                    "name": "BATAINDIA", 
+                    "value": 23.44
+                }, 
+                {
+                    "rate": -1.57, 
+                    "name": "BBTC", 
+                    "value": 1.28
+                }, 
+                {
+                    "rate": 1.8, 
+                    "name": "BRITANNIA", 
+                    "value": 92.8
+                }, 
+                {
+                    "rate": 1.45, 
+                    "name": "COLPAL", 
+                    "value": 26.83
+                }, 
+                {
+                    "rate": 1.27, 
+                    "name": "DABUR", 
+                    "value": 50.52
+                }, 
+                {
+                    "rate": 1.02, 
+                    "name": "EIDPARRY", 
+                    "value": 19.91
+                }, 
+                {
+                    "rate": -0.48, 
+                    "name": "EMAMILTD", 
+                    "value": 23.78
+                }, 
+                {
+                    "rate": 0.91, 
+                    "name": "EVEREADY", 
+                    "value": 1.33
+                }, 
+                {
+                    "rate": -0.01, 
+                    "name": "GILLETTE", 
+                    "value": 1.75
+                }, 
+                {
+                    "rate": -0.11, 
+                    "name": "GSKCONS", 
+                    "value": 18.5
+                }, 
+                {
+                    "rate": -0.88, 
+                    "name": "GODFRYPHLP", 
+                    "value": 11.03
+                }, 
+                {
+                    "rate": -0.53, 
+                    "name": "GODREJCP", 
+                    "value": 63.7
+                }, 
+                {
+                    "rate": -1.77, 
+                    "name": "GODREJIND", 
+                    "value": 21.18
+                }, 
+                {
+                    "rate": -1.44, 
+                    "name": "HERITGFOOD", 
+                    "value": 0.42
+                }, 
+                {
+                    "rate": 0.91, 
+                    "name": "HINDUNILVR", 
+                    "value": 228.76
+                }, 
+                {
+                    "rate": 0.27, 
+                    "name": "ITC", 
+                    "value": 603.06
+                }, 
+                {
+                    "rate": 3.17, 
+                    "name": "JYOTHYLAB", 
+                    "value": 0.93
+                }, 
+                {
+                    "rate": 1.19, 
+                    "name": "KRBL", 
+                    "value": 26.02
+                }, 
+                {
+                    "rate": -1.18, 
+                    "name": "MARICO", 
+                    "value": 51.73
+                }, 
+                {
+                    "rate": -1.55, 
+                    "name": "MCLEODRUSS", 
+                    "value": 14.63
+                }, 
+                {
+                    "rate": 1.43, 
+                    "name": "PGHH", 
+                    "value": 2.82
+                }, 
+                {
+                    "rate": -0.26, 
+                    "name": "RADICO", 
+                    "value": 1.4
+                }, 
+                {
+                    "rate": 2.15, 
+                    "name": "RUCHISOYA", 
+                    "value": 1.87
+                }, 
+                {
+                    "rate": 0.68, 
+                    "name": "RENUKA", 
+                    "value": 8.21
+                }, 
+                {
+                    "rate": 0.73, 
+                    "name": "TATACOFFEE", 
+                    "value": 3.47
+                }, 
+                {
+                    "rate": -0.12, 
+                    "name": "TATAGLOBAL", 
+                    "value": 19.72
+                }, 
+                {
+                    "rate": 0.24, 
+                    "name": "UBL", 
+                    "value": 38.01
+                }, 
+                {
+                    "rate": -1.7, 
+                    "name": "MCDOWELL-N", 
+                    "value": 114.93
+                }, 
+                {
+                    "rate": 2.89, 
+                    "name": "VSTIND", 
+                    "value": 0.61
+                }, 
+                {
+                    "rate": -1.44, 
+                    "name": "ZYDUSWELL", 
+                    "value": 0.21
+                }
+            ]
+        }, 
+        {
+            "name": "CHEMICALS", 
+            "children": [
+                {
+                    "rate": 0.16, 
+                    "name": "3MINDIA", 
+                    "value": 1.83
+                }, 
+                {
+                    "rate": -2.15, 
+                    "name": "AARTIIND", 
+                    "value": 1.35
+                }, 
+                {
+                    "rate": 0.27, 
+                    "name": "ADVANTA", 
+                    "value": 0.38
+                }, 
+                {
+                    "rate": -2.61, 
+                    "name": "AKZOINDIA", 
+                    "value": 0.63
+                }, 
+                {
+                    "rate": -1.54, 
+                    "name": "ASIANPAINT", 
+                    "value": 146.33
+                }, 
+                {
+                    "rate": 2.89, 
+                    "name": "ATUL", 
+                    "value": 6.99
+                }, 
+                {
+                    "rate": 1.63, 
+                    "name": "BASF", 
+                    "value": 1.87
+                }, 
+                {
+                    "rate": 1.03, 
+                    "name": "BERGEPAINT", 
+                    "value": 8.37
+                }, 
+                {
+                    "rate": -0.9, 
+                    "name": "CAMLINFINE", 
+                    "value": 0.81
+                }, 
+                {
+                    "rate": 1.28, 
+                    "name": "CHAMBLFERT", 
+                    "value": 1.05
+                }, 
+                {
+                    "rate": -0.69, 
+                    "name": "CLNINDIA", 
+                    "value": 0.52
+                }, 
+                {
+                    "rate": 1.96, 
+                    "name": "COROMANDEL", 
+                    "value": 2.09
+                }, 
+                {
+                    "rate": -1.82, 
+                    "name": "DCMSHRIRAM", 
+                    "value": 0.7
+                }, 
+                {
+                    "rate": -3.1, 
+                    "name": "DEEPAKFERT", 
+                    "value": 0.76
+                }, 
+                {
+                    "rate": 0.0, 
+                    "name": "GHCL", 
+                    "value": 1.48
+                }, 
+                {
+                    "rate": -0.24, 
+                    "name": "GUJALKALI", 
+                    "value": 0.1
+                }, 
+                {
+                    "rate": -0.2, 
+                    "name": "GUJFLUORO", 
+                    "value": 1.25
+                }, 
+                {
+                    "rate": -0.06, 
+                    "name": "GNFC", 
+                    "value": 0.46
+                }, 
+                {
+                    "rate": -1.77, 
+                    "name": "GSFC", 
+                    "value": 2.98
+                }, 
+                {
+                    "rate": -0.41, 
+                    "name": "KANSAINER", 
+                    "value": 19.84
+                }, 
+                {
+                    "rate": 1.4, 
+                    "name": "KSCL", 
+                    "value": 43.09
+                }, 
+                {
+                    "rate": -2.93, 
+                    "name": "LINDEINDIA", 
+                    "value": 0.21
+                }, 
+                {
+                    "rate": -0.07, 
+                    "name": "MONSANTO", 
+                    "value": 1.24
+                }, 
+                {
+                    "rate": -2.04, 
+                    "name": "NOCIL", 
+                    "value": 2.9
+                }, 
+                {
+                    "rate": -13.94, 
+                    "name": "BINDALAGRO", 
+                    "value": 14.22
+                }, 
+                {
+                    "rate": 0.09, 
+                    "name": "PIIND", 
+                    "value": 5.92
+                }, 
+                {
+                    "rate": -1.14, 
+                    "name": "PIDILITIND", 
+                    "value": 27.99
+                }, 
+                {
+                    "rate": -1.4, 
+                    "name": "RALLIS", 
+                    "value": 3.08
+                }, 
+                {
+                    "rate": 0.78, 
+                    "name": "RCF", 
+                    "value": 4.85
+                }, 
+                {
+                    "rate": 0.33, 
+                    "name": "SRF", 
+                    "value": 31.87
+                }, 
+                {
+                    "rate": -0.78, 
+                    "name": "SUPPETRO", 
+                    "value": 0.17
+                }, 
+                {
+                    "rate": -0.16, 
+                    "name": "TATACHEM", 
+                    "value": 30.25
+                }, 
+                {
+                    "rate": 1.18, 
+                    "name": "UPL", 
+                    "value": 63.55
+                }, 
+                {
+                    "rate": 0.4, 
+                    "name": "VINATIORGA", 
+                    "value": 0.31
+                }
+            ]
+        }, 
+        {
+            "name": "PHARMACEUTICALS", 
+            "children": [
+                {
+                    "rate": 2.76, 
+                    "name": "AJANTPHARM", 
+                    "value": 22.66
+                }, 
+                {
+                    "rate": -1.08, 
+                    "name": "APLLTD", 
+                    "value": 14.46
+                }, 
+                {
+                    "rate": 0.2, 
+                    "name": "ASTRAZEN", 
+                    "value": 0.86
+                }, 
+                {
+                    "rate": 0.57, 
+                    "name": "AUROPHARMA", 
+                    "value": 354.74
+                }, 
+                {
+                    "rate": 0.4, 
+                    "name": "BIOCON", 
+                    "value": 27.48
+                }, 
+                {
+                    "rate": -0.79, 
+                    "name": "CADILAHC", 
+                    "value": 62.06
+                }, 
+                {
+                    "rate": -0.08, 
+                    "name": "CIPLA", 
+                    "value": 158.39
+                }, 
+                {
+                    "rate": -0.73, 
+                    "name": "DISHMAN", 
+                    "value": 17.23
+                }, 
+                {
+                    "rate": 0.51, 
+                    "name": "DIVISLAB", 
+                    "value": 45.14
+                }, 
+                {
+                    "rate": 0.65, 
+                    "name": "DRREDDY", 
+                    "value": 200.92
+                }, 
+                {
+                    "rate": 4.75, 
+                    "name": "FDC", 
+                    "value": 0.91
+                }, 
+                {
+                    "rate": 1.1, 
+                    "name": "GLAXO", 
+                    "value": 6.09
+                }, 
+                {
+                    "rate": 2.59, 
+                    "name": "GLENMARK", 
+                    "value": 66.69
+                }, 
+                {
+                    "rate": -1.18, 
+                    "name": "IPCALAB", 
+                    "value": 4.49
+                }, 
+                {
+                    "rate": -1.24, 
+                    "name": "JBCHEPHARM", 
+                    "value": 1.6
+                }, 
+                {
+                    "rate": 4.98, 
+                    "name": "JUBILANT", 
+                    "value": 66.37
+                }, 
+                {
+                    "rate": 0.27, 
+                    "name": "LUPIN", 
+                    "value": 520.27
+                }, 
+                {
+                    "rate": -0.75, 
+                    "name": "MARKSANS", 
+                    "value": 12.37
+                }, 
+                {
+                    "rate": -0.31, 
+                    "name": "MERCK", 
+                    "value": 0.27
+                }, 
+                {
+                    "rate": 3.71, 
+                    "name": "NATCOPHARM", 
+                    "value": 72.72
+                }, 
+                {
+                    "rate": -0.06, 
+                    "name": "PFIZER", 
+                    "value": 6.28
+                }, 
+                {
+                    "rate": 1.65, 
+                    "name": "PEL", 
+                    "value": 13.35
+                }, 
+                {
+                    "rate": -0.88, 
+                    "name": "SANOFI", 
+                    "value": 18.54
+                }, 
+                {
+                    "rate": 3.64, 
+                    "name": "STAR", 
+                    "value": 150.04
+                }, 
+                {
+                    "rate": -1.45, 
+                    "name": "SPARC", 
+                    "value": 4.21
+                }, 
+                {
+                    "rate": 1.02, 
+                    "name": "SUNPHARMA", 
+                    "value": 429.85
+                }, 
+                {
+                    "rate": -1.21, 
+                    "name": "SUVEN", 
+                    "value": 3.21
+                }, 
+                {
+                    "rate": -0.8, 
+                    "name": "TORNTPHARM", 
+                    "value": 39.23
+                }, 
+                {
+                    "rate": -0.47, 
+                    "name": "UNICHEMLAB", 
+                    "value": 0.79
+                }, 
+                {
+                    "rate": 2.02, 
+                    "name": "WOCKPHARMA", 
+                    "value": 120.73
+                }
+            ]
+        }, 
+        {
+            "name": "REAL ESTATE", 
+            "children": [
+                {
+                    "rate": -0.75, 
+                    "name": "ANANTRAJ", 
+                    "value": 0.8
+                }, 
+                {
+                    "rate": 1.54, 
+                    "name": "BRIGADE", 
+                    "value": 3.73
+                }, 
+                {
+                    "rate": -0.47, 
+                    "name": "DBREALTY", 
+                    "value": 0.71
+                }, 
+                {
+                    "rate": -0.22, 
+                    "name": "DLF", 
+                    "value": 127.08
+                }, 
+                {
+                    "rate": 2.48, 
+                    "name": "FLFL", 
+                    "value": 0.39
+                }, 
+                {
+                    "rate": -1.77, 
+                    "name": "FRL", 
+                    "value": 1.89
+                }, 
+                {
+                    "rate": 0.15, 
+                    "name": "GODREJPROP", 
+                    "value": 5.35
+                }, 
+                {
+                    "rate": 3.69, 
+                    "name": "HDIL", 
+                    "value": 112.31
+                }, 
+                {
+                    "rate": 1.52, 
+                    "name": "IBREALEST", 
+                    "value": 24.79
+                }, 
+                {
+                    "rate": -2.2, 
+                    "name": "KOLTEPATIL", 
+                    "value": 0.95
+                }, 
+                {
+                    "rate": -0.78, 
+                    "name": "MAHLIFE", 
+                    "value": 0.29
+                }, 
+                {
+                    "rate": 2.79, 
+                    "name": "OBEROIRLTY", 
+                    "value": 8.22
+                }, 
+                {
+                    "rate": 0.0, 
+                    "name": "OMAXE", 
+                    "value": 8.73
+                }, 
+                {
+                    "rate": -1.07, 
+                    "name": "PARSVNATH", 
+                    "value": 0.13
+                }, 
+                {
+                    "rate": -4.57, 
+                    "name": "PENINLAND", 
+                    "value": 0.13
+                }, 
+                {
+                    "rate": -0.96, 
+                    "name": "PHOENIXLTD", 
+                    "value": 0.13
+                }, 
+                {
+                    "rate": -0.12, 
+                    "name": "PRESTIGE", 
+                    "value": 6.02
+                }, 
+                {
+                    "rate": 3.76, 
+                    "name": "PURVA", 
+                    "value": 0.44
+                }, 
+                {
+                    "rate": -0.52, 
+                    "name": "SHOPERSTOP", 
+                    "value": 0.35
+                }, 
+                {
+                    "rate": 0.57, 
+                    "name": "SOBHA", 
+                    "value": 1.64
+                }, 
+                {
+                    "rate": 0.97, 
+                    "name": "SUNTECK", 
+                    "value": 1.12
+                }, 
+                {
+                    "rate": 2.32, 
+                    "name": "TRENT", 
+                    "value": 2.34
+                }, 
+                {
+                    "rate": -2.0, 
+                    "name": "UNITECH", 
+                    "value": 31.81
+                }
+            ]
+        }, 
+        {
+            "name": "SERVICES", 
+            "children": [
+                {
+                    "rate": 0.71, 
+                    "name": "ADANIPORTS", 
+                    "value": 103.31
+                }, 
+                {
+                    "rate": -2.08, 
+                    "name": "ADLABS", 
+                    "value": 0.28
+                }, 
+                {
+                    "rate": -0.62, 
+                    "name": "ALLCARGO", 
+                    "value": 1.03
+                }, 
+                {
+                    "rate": 0.64, 
+                    "name": "APOLLOHOSP", 
+                    "value": 64.56
+                }, 
+                {
+                    "rate": -0.97, 
+                    "name": "BLUEDART", 
+                    "value": 3.78
+                }, 
+                {
+                    "rate": -0.02, 
+                    "name": "CONCOR", 
+                    "value": 176.64
+                }, 
+                {
+                    "rate": -0.8, 
+                    "name": "COX&KINGS", 
+                    "value": 2.46
+                }, 
+                {
+                    "rate": -0.3, 
+                    "name": "DELTACORP", 
+                    "value": 8.14
+                }, 
+                {
+                    "rate": -0.14, 
+                    "name": "EIHOTEL", 
+                    "value": 0.27
+                }, 
+                {
+                    "rate": -0.91, 
+                    "name": "FORTIS", 
+                    "value": 1.86
+                }, 
+                {
+                    "rate": -0.97, 
+                    "name": "FCEL", 
+                    "value": 2.71
+                }, 
+                {
+                    "rate": -0.05, 
+                    "name": "GDL", 
+                    "value": 2.76
+                }, 
+                {
+                    "rate": -0.32, 
+                    "name": "GATI", 
+                    "value": 14.54
+                }, 
+                {
+                    "rate": 0.51, 
+                    "name": "GESHIP", 
+                    "value": 1.92
+                }, 
+                {
+                    "rate": 2.5, 
+                    "name": "GPPL", 
+                    "value": 12.3
+                }, 
+                {
+                    "rate": -3.48, 
+                    "name": "INDHOTEL", 
+                    "value": 1.56
+                }, 
+                {
+                    "rate": 3.78, 
+                    "name": "JUBLFOOD", 
+                    "value": 64.16
+                }, 
+                {
+                    "rate": 0.8, 
+                    "name": "MMTC", 
+                    "value": 1.34
+                }, 
+                {
+                    "rate": 0.84, 
+                    "name": "MHRIL", 
+                    "value": 0.26
+                }, 
+                {
+                    "rate": 8.74, 
+                    "name": "MERCATOR", 
+                    "value": 6.53
+                }, 
+                {
+                    "rate": 0.07, 
+                    "name": "RDEL", 
+                    "value": 10.39
+                }, 
+                {
+                    "rate": -1.38, 
+                    "name": "SCI", 
+                    "value": 2.99
+                }, 
+                {
+                    "rate": 0.43, 
+                    "name": "THOMASCOOK", 
+                    "value": 1.34
+                }, 
+                {
+                    "rate": -1.69, 
+                    "name": "VRLLOG", 
+                    "value": 1.78
+                }, 
+                {
+                    "rate": -2.48, 
+                    "name": "VAIBHAVGBL", 
+                    "value": 0.13
+                }
+            ]
+        }, 
+        {
+            "name": "CONSTRUCTION MATERIALS", 
+            "children": [
+                {
+                    "rate": -0.27, 
+                    "name": "ACC", 
+                    "value": 81.94
+                }, 
+                {
+                    "rate": 0.5, 
+                    "name": "AMBUJACEM", 
+                    "value": 91.76
+                }, 
+                {
+                    "rate": 0.43, 
+                    "name": "ASAHIINDIA", 
+                    "value": 0.29
+                }, 
+                {
+                    "rate": 1.22, 
+                    "name": "BIRLACORPN", 
+                    "value": 0.1
+                }, 
+                {
+                    "rate": 0.65, 
+                    "name": "CENTURYPLY", 
+                    "value": 5.25
+                }, 
+                {
+                    "rate": -1.07, 
+                    "name": "CENTURYTEX", 
+                    "value": 46.05
+                }, 
+                {
+                    "rate": 0.14, 
+                    "name": "GRASIM", 
+                    "value": 77.85
+                }, 
+                {
+                    "rate": 0.16, 
+                    "name": "HSIL", 
+                    "value": 7.09
+                }, 
+                {
+                    "rate": 0.0, 
+                    "name": "INDIACEM", 
+                    "value": 22.73
+                }, 
+                {
+                    "rate": 4.06, 
+                    "name": "JKCEMENT", 
+                    "value": 5.58
+                }, 
+                {
+                    "rate": 0.77, 
+                    "name": "JKLAKSHMI", 
+                    "value": 2.57
+                }, 
+                {
+                    "rate": -1.91, 
+                    "name": "KCP", 
+                    "value": 0.53
+                }, 
+                {
+                    "rate": 1.39, 
+                    "name": "KAJARIACER", 
+                    "value": 11.22
+                }, 
+                {
+                    "rate": 1.29, 
+                    "name": "ORIENTCEM", 
+                    "value": 1.86
+                }, 
+                {
+                    "rate": -0.99, 
+                    "name": "PRISMCEM", 
+                    "value": 0.51
+                }, 
+                {
+                    "rate": -1.5, 
+                    "name": "RAIN", 
+                    "value": 0.36
+                }, 
+                {
+                    "rate": 1.81, 
+                    "name": "SHREECEM", 
+                    "value": 47.99
+                }, 
+                {
+                    "rate": -1.59, 
+                    "name": "RAMCOCEM", 
+                    "value": 7.64
+                }, 
+                {
+                    "rate": 1.39, 
+                    "name": "ULTRACEMCO", 
+                    "value": 225.52
+                }, 
+                {
+                    "rate": 2.09, 
+                    "name": "VESUVIUS", 
+                    "value": 0.22
+                }
+            ]
+        }, 
+        {
+            "name": "TECHNOLOGY", 
+            "children": [
+                {
+                    "rate": -2.31, 
+                    "name": "CYIENT", 
+                    "value": 1.84
+                }, 
+                {
+                    "rate": 1.42, 
+                    "name": "FINANTECH", 
+                    "value": 2.02
+                }, 
+                {
+                    "rate": 0.6, 
+                    "name": "FSL", 
+                    "value": 3.57
+                }, 
+                {
+                    "rate": 2.34, 
+                    "name": "GEOMETRIC", 
+                    "value": 28.85
+                }, 
+                {
+                    "rate": -1.26, 
+                    "name": "HCL-INSYS", 
+                    "value": 7.07
+                }, 
+                {
+                    "rate": -0.8, 
+                    "name": "HCLTECH", 
+                    "value": 374.2
+                }, 
+                {
+                    "rate": 3.46, 
+                    "name": "HEXAWARE", 
+                    "value": 28.92
+                }, 
+                {
+                    "rate": 0.12, 
+                    "name": "NAUKRI", 
+                    "value": 4.04
+                }, 
+                {
+                    "rate": 1.02, 
+                    "name": "INFY", 
+                    "value": 1093.55
+                }, 
+                {
+                    "rate": 2.33, 
+                    "name": "JUSTDIAL", 
+                    "value": 245.42
+                }, 
+                {
+                    "rate": 3.55, 
+                    "name": "KPIT", 
+                    "value": 22.25
+                }, 
+                {
+                    "rate": -2.47, 
+                    "name": "MTEDUCARE", 
+                    "value": 1.42
+                }, 
+                {
+                    "rate": -1.49, 
+                    "name": "MINDTREE", 
+                    "value": 66.37
+                }, 
+                {
+                    "rate": -2.62, 
+                    "name": "MPHASIS", 
+                    "value": 9.28
+                }, 
+                {
+                    "rate": -0.63, 
+                    "name": "NIITLTD", 
+                    "value": 3.59
+                }, 
+                {
+                    "rate": 0.43, 
+                    "name": "NIITTECH", 
+                    "value": 4.02
+                }, 
+                {
+                    "rate": 1.97, 
+                    "name": "NAVNETEDUL", 
+                    "value": 0.37
+                }, 
+                {
+                    "rate": -0.76, 
+                    "name": "OFSS", 
+                    "value": 29.59
+                }, 
+                {
+                    "rate": 0.86, 
+                    "name": "PERSISTENT", 
+                    "value": 6.5
+                }, 
+                {
+                    "rate": 0.79, 
+                    "name": "REDINGTON", 
+                    "value": 0.4
+                }, 
+                {
+                    "rate": -0.59, 
+                    "name": "ROLTA", 
+                    "value": 2.93
+                }, 
+                {
+                    "rate": -0.03, 
+                    "name": "SONATSOFTW", 
+                    "value": 3.18
+                }, 
+                {
+                    "rate": 1.23, 
+                    "name": "TCS", 
+                    "value": 547.78
+                }, 
+                {
+                    "rate": -0.08, 
+                    "name": "TATAELXSI", 
+                    "value": 98.88
+                }, 
+                {
+                    "rate": 0.44, 
+                    "name": "TECHM", 
+                    "value": 220.66
+                }, 
+                {
+                    "rate": -3.52, 
+                    "name": "TREEHOUSE", 
+                    "value": 0.97
+                }, 
+                {
+                    "rate": 1.6, 
+                    "name": "VAKRANGEE", 
+                    "value": 33.09
+                }, 
+                {
+                    "rate": 0.41, 
+                    "name": "WIPRO", 
+                    "value": 218.45
+                }, 
+                {
+                    "rate": -0.39, 
+                    "name": "ZENSARTECH", 
+                    "value": 2.87
+                }, 
+                {
+                    "rate": 1.52, 
+                    "name": "ECLERX", 
+                    "value": 4.33
+                }
+            ]
+        }, 
+        {
+            "name": "ENGINEERING", 
+            "children": [
+                {
+                    "rate": 1.31, 
+                    "name": "ALSTOMT&D", 
+                    "value": 9.76
+                }, 
+                {
+                    "rate": -1.6, 
+                    "name": "ASHOKA", 
+                    "value": 1.04
+                }, 
+                {
+                    "rate": -1.34, 
+                    "name": "BFUTILITIE", 
+                    "value": 36.56
+                }, 
+                {
+                    "rate": -0.87, 
+                    "name": "BHEL", 
+                    "value": 77.42
+                }, 
+                {
+                    "rate": 3.62, 
+                    "name": "DREDGECORP", 
+                    "value": 5.89
+                }, 
+                {
+                    "rate": 1.99, 
+                    "name": "ENGINERSIN", 
+                    "value": 20.41
+                }, 
+                {
+                    "rate": 0.87, 
+                    "name": "GMRINFRA", 
+                    "value": 55.01
+                }, 
+                {
+                    "rate": -1.03, 
+                    "name": "GAMMNINFRA", 
+                    "value": 0.11
+                }, 
+                {
+                    "rate": -0.77, 
+                    "name": "HCC", 
+                    "value": 12.96
+                }, 
+                {
+                    "rate": -1.79, 
+                    "name": "IL&FSENGG", 
+                    "value": 0.28
+                }, 
+                {
+                    "rate": 3.99, 
+                    "name": "IL&FSTRANS", 
+                    "value": 3.5
+                }, 
+                {
+                    "rate": 1.3, 
+                    "name": "IRB", 
+                    "value": 21.06
+                }, 
+                {
+                    "rate": 0.5, 
+                    "name": "ITDCEM", 
+                    "value": 1.27
+                }, 
+                {
+                    "rate": -5.32, 
+                    "name": "IVRCLINFRA", 
+                    "value": 3.89
+                }, 
+                {
+                    "rate": 0.49, 
+                    "name": "JKIL", 
+                    "value": 9.64
+                }, 
+                {
+                    "rate": 3.97, 
+                    "name": "JPASSOCIAT", 
+                    "value": 19.5
+                }, 
+                {
+                    "rate": 1.21, 
+                    "name": "JPINFRATEC", 
+                    "value": 3.05
+                }, 
+                {
+                    "rate": 0.92, 
+                    "name": "JYOTISTRUC", 
+                    "value": 0.33
+                }, 
+                {
+                    "rate": 0.62, 
+                    "name": "KNRCON", 
+                    "value": 0.65
+                }, 
+                {
+                    "rate": -2.29, 
+                    "name": "KALPATPOWR", 
+                    "value": 0.91
+                }, 
+                {
+                    "rate": 1.44, 
+                    "name": "KEC", 
+                    "value": 4.78
+                }, 
+                {
+                    "rate": 1.0, 
+                    "name": "LITL", 
+                    "value": 0.89
+                }, 
+                {
+                    "rate": -0.93, 
+                    "name": "LT", 
+                    "value": 402.15
+                }, 
+                {
+                    "rate": -1.14, 
+                    "name": "MBLINFRA", 
+                    "value": 0.41
+                }, 
+                {
+                    "rate": 0.0, 
+                    "name": "NCC", 
+                    "value": 25.8
+                }, 
+                {
+                    "rate": -1.0, 
+                    "name": "NBCC", 
+                    "value": 12.76
+                }, 
+                {
+                    "rate": 0.0, 
+                    "name": "NOIDATOLL", 
+                    "value": 0.41
+                }, 
+                {
+                    "rate": 4.97, 
+                    "name": "PNCINFRA", 
+                    "value": 3.61
+                }, 
+                {
+                    "rate": -1.07, 
+                    "name": "PATELENG", 
+                    "value": 0.57
+                }, 
+                {
+                    "rate": 0.56, 
+                    "name": "PRAJIND", 
+                    "value": 6.27
+                }, 
+                {
+                    "rate": -1.77, 
+                    "name": "PUNJLLOYD", 
+                    "value": 1.44
+                }, 
+                {
+                    "rate": 0.16, 
+                    "name": "RIIL", 
+                    "value": 24.34
+                }, 
+                {
+                    "rate": 2.38, 
+                    "name": "SADBHAV", 
+                    "value": 2.42
+                }, 
+                {
+                    "rate": 0.22, 
+                    "name": "SIMPLEXINF", 
+                    "value": 0.57
+                }, 
+                {
+                    "rate": 6.63, 
+                    "name": "SUPREMEINF", 
+                    "value": 5.67
+                }, 
+                {
+                    "rate": -0.08, 
+                    "name": "SWANENERGY", 
+                    "value": 1.81
+                }, 
+                {
+                    "rate": -1.08, 
+                    "name": "WABAG", 
+                    "value": 4.37
+                }, 
+                {
+                    "rate": -1.11, 
+                    "name": "WELSPUNIND", 
+                    "value": 4.38
+                }
+            ]
+        }, 
+        {
+            "name": "TEXTILES", 
+            "children": [
+                {
+                    "rate": -2.2, 
+                    "name": "ALOKTEXT", 
+                    "value": 1.59
+                }, 
+                {
+                    "rate": 0.74, 
+                    "name": "BOMDYEING", 
+                    "value": 1.84
+                }, 
+                {
+                    "rate": 0.23, 
+                    "name": "CENTENKA", 
+                    "value": 0.5
+                }, 
+                {
+                    "rate": -0.64, 
+                    "name": "HIMATSEIDE", 
+                    "value": 3.8
+                }, 
+                {
+                    "rate": -1.58, 
+                    "name": "JBFIND", 
+                    "value": 0.89
+                }, 
+                {
+                    "rate": 0.33, 
+                    "name": "KPRMILL", 
+                    "value": 2.24
+                }, 
+                {
+                    "rate": 3.58, 
+                    "name": "KKCL", 
+                    "value": 0.71
+                }, 
+                {
+                    "rate": 3.6, 
+                    "name": "KITEX", 
+                    "value": 9.76
+                }, 
+                {
+                    "rate": 2.92, 
+                    "name": "MANDHANA", 
+                    "value": 0.65
+                }, 
+                {
+                    "rate": -2.87, 
+                    "name": "MAYURUNIQ", 
+                    "value": 1.84
+                }, 
+                {
+                    "rate": 6.95, 
+                    "name": "PAGEIND", 
+                    "value": 32.39
+                }, 
+                {
+                    "rate": 0.11, 
+                    "name": "RAYMOND", 
+                    "value": 0.96
+                }, 
+                {
+                    "rate": 1.77, 
+                    "name": "TRIDENT", 
+                    "value": 5.53
+                }, 
+                {
+                    "rate": -1.39, 
+                    "name": "VTL", 
+                    "value": 0.85
+                }, 
+                {
+                    "rate": -4.95, 
+                    "name": "VIVIDHA", 
+                    "value": 0.31
+                }
+            ]
+        }
+    ]
+}
