@@ -1,4 +1,7 @@
-// Sample data
+
+// Read the CSV file
+
+
 const rawData = `
 name,symbol,YTD,3MO,1YR,3YR,5YR,10YR,Yield,rating,Expense ratio,Mgr tenure,assets,Category
 1838 International Equity,INTEX,17.52,21.16,17.52,11.78,,,0,****,1.25,3,52106888.00,International Stocks
