@@ -15,7 +15,7 @@
   
   var color = d3.scale.threshold()
       .domain([-5,1,10,20])
-      .range(["#BB0000","#600A0A","#404040","#064D15","#1CA41C"]);
+      .range(["#BB0001","#600A0B","#404041","#064D16","#1CA41D"]);
   
   var treemap = d3.layout.treemap()
       .children(function(d, depth) { return depth ? null : d._children; })
