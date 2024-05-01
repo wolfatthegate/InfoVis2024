@@ -1,7 +1,7 @@
 (function() {
 var margin = {top: 25, right: 0, bottom: 0, left: 0},
-    width = 800,
-    height = 450 - margin.top - margin.bottom,
+    width = 900,
+    height = 500 - margin.top - margin.bottom,
     formatNumber = d3.format(",d"),
     transitioning;
 
@@ -14,7 +14,7 @@ var y = d3.scale.linear()
     .range([0, height]);
 
 var color = d3.scale.threshold()
-    .domain([-3,-0.25,0.25,3])
+    .domain([-3,-0.250,0.250,3])
     .range(["#BB0000","#600A0A","#404040","#064D15","#1CA41C"]);
 
 var treemap = d3.layout.treemap()
@@ -137,8 +137,6 @@ grandparent.append("text")
                                 .duration(200)
                                 .style("opacity", 1);
                              d3.select("#tooltip").html("<h3>"+d.name+"</h3><table>"+
-                                      "<tr><td>"+d.value+"</td><td> ("+d.rate+"%)</td></tr>"+
-                                      "<tr><td>"+d.value+"</td><td> ("+d.rate+"%)</td></tr>"+
                                       "<tr><td>"+d.value+"</td><td> ("+d.rate+"%)</td></tr>"+
                                       "</table>")
                                 .style("left", (d3.event.pageX-document.getElementById('heatmap').offsetLeft + 20) + "px")
