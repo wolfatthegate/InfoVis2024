@@ -64,6 +64,12 @@
           text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
           cursor: move;
         }
+        /* CSS styles for limiting paragraph width */
+        .limited-width {
+            max-width: 600px; /* Adjust the value to your desired width */
+            margin: 0 auto; /* Center the paragraph horizontally */
+            padding: 20px; /* Add some padding for readability */
+        }
     </style>
 <head>
     <meta charset="utf-8">
@@ -81,6 +87,35 @@
 	<li><a href="parallel.html">Parallel Coordinates</a></li>
 	<li><a href="">Download sourcecode</a></li>
 	</ul>
-    
+    <body>
+        <div class="container">
+            <h1>Welcome to our Homepage</h1>
+            <table>
+
+                <tr>
+                    <td><img src="images/IMG_1928.png" alt="Photo 1"></td>
+                    <td><p class="limited-width">
+                        Team Leader: Our team leader's intangible leadership 
+                    inspires and motivates our team to excel. He navigates challenges with 
+                    confidence, leading us to success. 
+                    His fierce determination and strategic approach drive our team forward, 
+                    fostering collaboration and innovation. With his guidance, 
+                    we conquer obstacles and achieve our goals, 
+                    making him an indispensable asset to our team. His is also known as the 
+                    roof top warrior of the neighbor to make sure the safty of our community 
+                by watching suspicious activites from the roof top every night. 
+                    </p></td>
+                </tr>
+                <tr>
+                    <td><img src="images/IMG_0710.png" alt="Photo 2"></td>
+                    <td>Team Member 1</td>
+                </tr>
+                <tr>
+                    <td><img src="images/IMG_0715.png" alt="Photo 3"></td>
+                    <td>Team Member 2 and 3</td>
+                </tr>
+            </table>
+        </div>
+    </body>
 </body>
 </html>
