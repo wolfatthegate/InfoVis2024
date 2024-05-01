@@ -14,7 +14,7 @@
       .range([0, height]);
   
   var color = d3.scale.threshold()
-      .domain([-1,10,15,20])
+      .domain([-5,1,10,20])
       .range(["#BB0000","#600A0A","#404040","#064D15","#1CA41C"]);
   
   var treemap = d3.layout.treemap()
@@ -95,7 +95,7 @@
                 grandparent
                     .datum(d.parent)
                   .select("rect")
-                    .attr("fill", function(){return color(d['3YR'])})
+                    .attr("fill", function(){return color(d['threeYR'])})
   
                 var g1 = svg.insert("g", ".grandparent")
                     .datum(d)
@@ -139,6 +139,7 @@
                                d3.select("#tooltip").html("<h3>"+d.name+"</h3><table>"+
                                         "<tr><td>Symbol: "+d.symbol+"</td><td>"+
                                         "<tr><td>YTD:"+d.value+"</td><td> "+
+                                        "<tr><td>3YR:"+d.threeYR+"</td><td> "+
                                         "</table>")
                                   .style("left", (d3.event.pageX-document.getElementById('heatmap').offsetLeft + 20) + "px")
                                   .style("top", (d3.event.pageY-document.getElementById('heatmap').offsetTop - 60) + "px");
@@ -207,7 +208,7 @@
                     .attr("y", function(d) { return y(d.y); })
                     .attr("width", function(d) { return x(d.x + d.dx) - x(d.x); })
                     .attr("height", function(d) { return y(d.y + d.dy) - y(d.y); })
-                    .attr("fill", function(d){return color(parseFloat(d.value));});
+                    .attr("fill", function(d){return color(parseFloat(d.threeYR));});
               }
   
               function name(d) {
