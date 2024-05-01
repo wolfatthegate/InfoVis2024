@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asset vs YTD Scatter Plot with Categories</title>
+    <!-- Include Chart.js library -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        html {
+        position: relative;
+        min-height: 100%;
+      }
+        body {
+            background-color: white;
+            font-family: "Arial Narrow";
+        font-weight: normal;
+        margin-top: 10px;
+        margin-bottom: 60px;
+        margin-left: 60px;
+        }
+        .heading{
+       font-size: 14px;
+       font-weight: normal;
+        font-style: italic;
+        }
+        a:link {
+        color: steelblue;
+        }
+        a:visited {
+          color: grey;
+        }
+        a:hover {
+          color: black;
+        }
+        .btn.active[data-active-class="primary"] {
+            color: #fff;
+            background-color: DimGrey;
+            border-color: #204d74;
+        }
+        svg {
+          font: 10px sans-serif;
+        }
+    
+        .background path {
+          fill: none;
+          stroke: #ddd;
+          shape-rendering: crispEdges;
+        }
+    
+        .foreground path {
+          fill: none;
+          stroke: steelblue;
+        }
+    
+        .brush .extent {                                         
+          fill-opacity: .3;
+          stroke: #fff;
+          shape-rendering: crispEdges;
+        }
+    
+        .axis line,
+        .axis path {
+          fill: none;
+          stroke: #000;
+          shape-rendering: crispEdges;
+        }
+    
+        .axis text {
+          text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;
+          cursor: move;
+        }
+        canvas#scatterChart {
+        width: 800px;
+        height: 400px;
+        }
+    </style>
+</head>
+<body>
+    <center><font size = 6 ><b>
+      Group 3: Pegah Ahadian, Maliha Arif, Waylon Luo and  Zixu Wang <br>
+      Project 3 <br></b></font></center>
+  <div id="wrapper">
+  
+    <h3>Links</h3>
+      <ul>
+      <li><a href="index.html">Home</a></li>
+        <li><a href="heatmap.html">Heat Map</a></li>
+      <li><a href="scatterplot.html">Scatter Plot</a></li>
+        <li><a href="parallel.html">Parallel Coordinates</a></li>
+        <li><a href="">Download sourcecode</a></li>
+      </ul>
+  
+    <h3>Scatter Plot</h3>
+    <h3>Mutual Funds</h3>
+    <table>
+        <tr>
+            <td style="width: 90%;">
+                <!-- Create a canvas element for the chart -->
+                <canvas id="scatterChart" width="800" height="400"><script src="scatterplot.js"></script></canvas>
+            </td>
+            <td ></td>
+        </tr>
+    </table>
+    
+
+    
+</body>
+</html>
